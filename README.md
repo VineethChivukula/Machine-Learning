@@ -1,2 +1,2 @@
 # Machine-Learning
-SELF PREPARED NOTES
+Self Prepared Notes from Text Book
