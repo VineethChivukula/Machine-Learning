@@ -5,6 +5,8 @@ References:
 
 Alpaydin, Ethem. Introduction to machine learning. MIT press, 2020
 
+Tom M. Mitchell, “Machine Learning”, McGraw Hill, 1997
+
 Contents:
 
 Unit-1: Introduction to Machine Learning, Supervised Learning, Regression, Dimensionality Reduction
