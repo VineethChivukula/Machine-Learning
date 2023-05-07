@@ -9,6 +9,8 @@ Tom M. Mitchell, “Machine Learning”, McGraw Hill, 1997
 
 ChatGPT, May 3 Version
 
+Mahesh Huddar-YouTube Channel
+
 Contents:
 
 Unit-1: Introduction to Machine Learning, Supervised Learning, Regression, Dimensionality Reduction
