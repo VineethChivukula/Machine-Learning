@@ -7,7 +7,7 @@ Alpaydin, Ethem. Introduction to machine learning. MIT press, 2020
 
 Tom M. Mitchell, “Machine Learning”, McGraw Hill, 1997
 
-ChatGPT
+ChatGPT, May 3 Version
 
 Contents:
 
